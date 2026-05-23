@@ -6,7 +6,7 @@ dotenv.config({
 });
 
 const config = {
-  connection_string: (process.env.CONNECTIONSTRING || process.env.DATABASE_URL) as string,
+  connection_string: process.env.DATABASE_URL as string,
   port: process.env.PORT || "5000",
   secret: process.env.JWT_SECRET || "devpulse_secret",
   jwt_expires_in: process.env.JWT_EXPIRES_IN || "7d",
