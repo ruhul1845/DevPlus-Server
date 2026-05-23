@@ -28,7 +28,7 @@ Internal Tech Issue & Feature Tracker API built with Node.js, TypeScript, Expres
 ## Folder Structure
 
 ```txt
-express
+
 ├── src
 │   ├── app.ts
 │   ├── server.ts
