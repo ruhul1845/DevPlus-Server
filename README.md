@@ -2,6 +2,10 @@
 
 Internal Tech Issue & Feature Tracker API built with Node.js, TypeScript, Express.js and PostgreSQL.
 
+## Live Server
+
+https://dev-plus-server.vercel.app/
+
 ## Features
 
 - User signup and login
@@ -51,10 +55,6 @@ Internal Tech Issue & Feature Tracker API built with Node.js, TypeScript, Expres
 ├── package.json
 └── tsconfig.json
 ```
-
-
-```
-
 
 
 ## API Endpoints
